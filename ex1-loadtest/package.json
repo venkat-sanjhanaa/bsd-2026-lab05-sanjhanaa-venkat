@@ -1,0 +1,11 @@
+
+{
+  "type": "module",
+  "dependencies": {
+    "loadtest": "^8.2.0",
+    "luxon": "^3.7.2"
+  },
+  "overrides": {
+    "agentkeepalive": "^4.6.0"
+  }
+}
